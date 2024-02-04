@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * Write Program to - Convert ArrayList in Streams - in java 8.
+ * Write Program to - Convert ArrayList in Streams - in java 8...
  */
 public class ConvertArrayListInStreams {
 	public static void main(String[] args) {
