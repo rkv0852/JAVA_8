@@ -15,7 +15,7 @@ public class ConvertArrayListOfIntegersToStreamsExample {
  
            System.out.println("1. Create list of Integer");
            List<Integer> listOfIntegers = new ArrayList<>();
-           listOfIntegers.add(11);
+           listOfIntegers.add(11);  
            listOfIntegers.add(12);
            
            System.out.println("2. Convert list (ArrayList) of Integer to stream");
