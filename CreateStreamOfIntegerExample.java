@@ -17,3 +17,16 @@ public class CreateStreamOfIntegerExample {
 	} 
 
 }
+
+
+/* OUTPUT
+
+1. Create Stream of Integer
+1.1 Create Stream of Integer using - of() method of Stream and passing the integers
+1.2 Create Stream of Integer using - of() method of Stream and passing Integer array
+2. Display Stream of Integer
+11
+12
+13
+ 
+*/

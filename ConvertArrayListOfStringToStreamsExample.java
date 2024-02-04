@@ -16,3 +16,13 @@ public class ConvertArrayListOfStringToStreamsExample {
 	}
 
 }
+
+/* OUTPUT
+
+1. Create list of String
+2. Convert list (ArrayList) of String to stream
+3. Display Stream of String
+a
+b
+ 
+*/
